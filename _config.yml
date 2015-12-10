@@ -1,7 +1,7 @@
 name: philippeschaedler
 favicon: null
 layout_spectrum: 0.26492800074629486
-typography_spectrum: 0.00546307023614645
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8928199354559183
+  brandStrength: 0
   lightness: 0.2639538743533194
   saturation: 0.3439425576943904
   rhythmicContrast: 0.7632313126232475
