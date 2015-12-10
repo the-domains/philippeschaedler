@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[philippeschaedler]]></title>
         <description><![CDATA[philippeschaedler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/philippeschaedler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 04:54:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 05:00:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/philippeschaedler/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[philippeschaedler.com]]></title>
             <description><![CDATA[<article><h1>philippeschaedler.com</h1><p>Philippe Schaedler</p></article>]]></description>
-            <link>undefinedphilippeschaedlercom/index.html</link>
+            <link>https://thegrid.ai/philippeschaedler/philippeschaedlercom/index.html</link>
             <guid isPermaLink="false">6fd6aa32-a390-4889-84c0-84a4ab0dce6b</guid>
             <pubDate>Thu, 10 Dec 2015 04:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<h1>Services</h1>]]></description>
+            <link>https://thegrid.ai/philippeschaedler/services/index.html</link>
+            <guid isPermaLink="false">fcb5cb69-a75e-4351-843b-8293cea3defc</guid>
+            <pubDate>Thu, 10 Dec 2015 05:00:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
