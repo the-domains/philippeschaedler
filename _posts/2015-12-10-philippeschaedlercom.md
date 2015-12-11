@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Santa Monica Hairstylist '
-datePublished: '2015-12-10T22:30:23.134Z'
-dateModified: '2015-12-10T22:29:56.894Z'
+datePublished: '2015-12-11T19:13:32.363Z'
+dateModified: '2015-12-11T18:26:08.543Z'
 title: philippeschaedler.com
 author: []
 sourcePath: _posts/2015-12-10-philippeschaedlercom.md
