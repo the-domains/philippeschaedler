@@ -1,6 +1,6 @@
 name: philippeschaedler
 favicon: null
-layout_spectrum: 0.26492800074629486
+layout_spectrum: 1
 typography_spectrum: 0.99133
 title: 'Hair Stylist Santa Monica California '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#898989'
     - '#464646'
     - '#e79167'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
