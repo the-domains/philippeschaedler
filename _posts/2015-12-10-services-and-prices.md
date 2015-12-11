@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Haircut 95 / (wet & dry cut - blow dry included) Extra long, dense hair 125 (wet & dry cut - blow dry included) Barbering (men's) 65 Shampoo & Styling 50 to 60 "
-datePublished: '2015-12-11T03:19:52.603Z'
-dateModified: '2015-12-11T03:19:48.552Z'
+datePublished: '2015-12-11T03:20:55.803Z'
+dateModified: '2015-12-11T03:20:52.644Z'
 author: []
 title: 'Services & Prices'
 sourcePath: _posts/2015-12-10-services-and-prices.md
@@ -36,7 +36,7 @@ Highlights or Color Panels Full Head 175 -
 Extra Fine Highlighting 175   
 Magma Highlights or Panels Partial HL 135 -   
 Full Head 185    
-Color Service (one color) 87   
+Color Service (one color) 87 
 
 Specialty Coloring/Color Correction (more than one color process) 150 & up 
 
