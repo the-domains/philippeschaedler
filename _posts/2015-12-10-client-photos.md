@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-12T01:04:47.858Z'
-dateModified: '2015-12-10T22:50:24.953Z'
+datePublished: '2015-12-12T07:50:27.146Z'
+dateModified: '2015-12-12T01:10:40.181Z'
 title: Client Photos
 author: []
+sourcePath: _posts/2015-12-10-client-photos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-10-client-photos.md
-published: true
 url: client-photos/index.html
 _type: Article
 
