@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-10T22:50:45.436Z'
-dateModified: '2015-12-10T22:50:40.484Z'
+datePublished: '2015-12-12T20:18:07.698Z'
+dateModified: '2015-12-12T01:18:28.382Z'
 title: Contact Info
 author: []
+sourcePath: _posts/2015-12-10-contact-info.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-10-contact-info.md
-published: true
 url: contact-info/index.html
 _type: Article
 
@@ -25,3 +25,4 @@ _type: Article
 stylistphilippe@gmail.com
 
 424-248-8317
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8b5b327-789e-4aa9-9ce6-e066f15e8cae.jpg)
