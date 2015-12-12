@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-10T22:47:04.479Z'
-dateModified: '2015-12-10T22:46:36.143Z'
+datePublished: '2015-12-12T01:04:47.858Z'
+dateModified: '2015-12-10T22:50:24.953Z'
 title: Client Photos
 author: []
 authors: []
