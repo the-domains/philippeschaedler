@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-12T07:50:27.146Z'
-dateModified: '2015-12-12T01:10:40.181Z'
+datePublished: '2015-12-14T00:49:42.982Z'
+dateModified: '2015-12-14T00:49:39.607Z'
 title: Client Photos
 author: []
 sourcePath: _posts/2015-12-10-client-photos.md
@@ -23,5 +23,5 @@ _type: Article
 
 ---
 Client Photos
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9bdd232-35c7-4214-8dd1-dc3e1e611489.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c887a9c-5f0f-407a-859c-9caa72e95264.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e1590e1-4e20-4122-92a3-3c531ea21842.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be7db52-ccec-45ec-a353-3cc7c4460a83.jpg)
