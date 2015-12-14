@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-12T20:18:07.698Z'
-dateModified: '2015-12-12T01:18:28.382Z'
+datePublished: '2015-12-14T00:53:11.592Z'
+dateModified: '2015-12-14T00:53:04.915Z'
 title: Contact Info
 author: []
 sourcePath: _posts/2015-12-10-contact-info.md
