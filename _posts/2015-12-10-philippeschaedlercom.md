@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Santa Monica Hairstylist '
-datePublished: '2015-12-11T19:13:32.363Z'
-dateModified: '2015-12-11T18:26:08.543Z'
-title: philippeschaedler.com
+datePublished: '2015-12-14T01:08:47.640Z'
+dateModified: '2015-12-14T01:08:44.194Z'
+title: Home
 author: []
 sourcePath: _posts/2015-12-10-philippeschaedlercom.md
 published: true
@@ -19,15 +19,9 @@ publisher:
   url: null
   favicon: null
 url: philippeschaedlercom/index.html
-_type: Article
+_type: WebPage
 
 ---
-Philippe Schaedler
-
-If you're looking for a Santa Monica hair stylist who offers high quality and personal service, you've come to the right place. You will receive the attention and personal service you'll come to expect and enjoy.   
-[click here][0]I have also been trained in the Japanese Straightening treatment and have been offering the service for more than eight years. If you have any questions about my services, feel free to contact me via [email][1] and I will get back to you as soon as possible. Please visit me at Salon Tosca, a Santa Monica hair salon on 3014 Wilshire Boulevard. Let me put [my education][2] and experience to work for you!
+Thank you for dropping by... If you're looking for a Santa Monica hair stylist who offers high quality and personal service, you've come to the right place. You will receive the attention and personal service you'll come to expect and enjoy. I offer many years of experience in consultation, Toni&Guy and Vidal Sassoon hair cutting techniques, as well as hair coloring, and I thrive on continuing education. I have extensive training with the use of Goldwell and TIGI permanent and semi-permanent hair coloring products. With these excellent color lines, I can provide the best and most vibrant hair coloring for my clients. I am also a certified and experienced Brazilian Blowout Specialist. To learn more about the Brazilian Blowout treatment, click here.  I have also been trained in the Japanese Straightening treatment and have been offering the service for more than eight years. If you have any questions about my services, feel free to contact me via email and I will get back to you as soon as possible. Please visit me at Salon Tosca, a Santa Monica hair salon on 3014 Wilshire Boulevard. Let me put my education and experience to work for you!   
+Salon Tosca 3014 Wilshire Blvd.  Santa Monica, CA 90403 Brazilian Blow Out Certified Stylist Clients Comments Now Offering the  HYBRID Japanese/Brazilian Treatment The Hybrid Tuesdays: Phenix Salon Suites 13455 Maxella Ave  Marina del Rey, CA 90292
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e10c24cf-6acc-4013-ab91-c8c3cbac9472.jpg)
-
-[0]: http://www.philippeschaedler.com/Brazilian-Blow-Out.html
-[1]: mailto:stylistphilippe@gmail.com
-[2]: http://www.philippeschaedler.com/Education.html
