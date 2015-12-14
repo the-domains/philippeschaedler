@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Education I discovered early on that education is the key to being a successful and happy hairstylist. Continuing education is what makes our industry so much f
-datePublished: '2015-12-14T01:00:39.733Z'
-dateModified: '2015-12-14T01:00:27.241Z'
+datePublished: '2015-12-14T01:02:11.149Z'
+dateModified: '2015-12-14T01:01:52.431Z'
 author: []
 title: Education
 sourcePath: _posts/2015-12-10-education-i-discovered-early-on-that-education-is-the-key-to.md
