@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Santa Monica Hairstylist '
-datePublished: '2015-12-14T01:15:13.362Z'
-dateModified: '2015-12-14T01:15:11.277Z'
+datePublished: '2015-12-14T01:18:34.474Z'
+dateModified: '2015-12-14T01:18:32.082Z'
 title: Home
 author: []
 sourcePath: _posts/2015-12-10-philippeschaedlercom.md
