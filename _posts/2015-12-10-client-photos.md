@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T00:49:42.982Z'
-dateModified: '2015-12-14T00:49:39.607Z'
+datePublished: '2015-12-14T00:51:13.840Z'
+dateModified: '2015-12-14T00:51:04.420Z'
 title: Client Photos
 author: []
 sourcePath: _posts/2015-12-10-client-photos.md
